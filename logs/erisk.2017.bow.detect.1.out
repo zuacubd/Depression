@@ -1,0 +1,11 @@
+launching ...
+processing arguments ...
+Data folder: /projets/sig/mullah/nlp/depression/
+Process: 3
+Evaluation track: 2017
+Features type: bow
+Choice on early detection: 1
+Training: False
+Testing: False
+Assessing: True
+done.

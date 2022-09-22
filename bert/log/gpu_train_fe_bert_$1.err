@@ -1,0 +1,4 @@
+[31mFATAL:  [0m failed to retrieved path for /users/sig/mullah/nlp/projects/depression/bert/singularity: lstat /users/sig/mullah/nlp/projects/depression/bert/singularity: no such file or directory
+srun: error: gpu-nc01: task 0: Exited with exit code 255
+[91mERROR  : Child exit with status 255
+[0m

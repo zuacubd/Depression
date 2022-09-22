@@ -1,0 +1,10 @@
+1. All features and all ML (done)
+2. Word embedding and All ML (...)
+3. BERT (...)
+
+1. Feature ablation study (done)
+--- Meta level and group level
+2. Feature selection
+--- ElasticNet based feature selection
+2. Automatic thresholding for detecting depression
+3. Adaptive thresholding for detecting depression

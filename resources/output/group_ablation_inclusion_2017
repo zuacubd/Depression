@@ -1,0 +1,85 @@
+Aggregation
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g1_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g2_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g3_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g4_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g5_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g6_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g7_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g8_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g9_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g10_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g11_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g12_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g13_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g14_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g15_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2017/bow/test/All_g16_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Done
+Estimating erisk 5
+G1: 
+0.47 & 0.54 & 0.50 & 13.17
+G2: 
+0.38 & 0.58 & 0.46 & 13.86
+G3: 
+0.18 & 0.52 & 0.27 & 15.85
+G4: 
+0.50 & 0.62 & 0.55 & 13.53
+G5: 
+0.55 & 0.12 & 0.19 & 13.13
+G6: 
+0.44 & 0.13 & 0.21 & 12.84
+G7: 
+0.13 & 0.73 & 0.23 & 18.88
+G8: 
+0.25 & 0.65 & 0.36 & 15.29
+G9: 
+0.19 & 0.44 & 0.26 & 15.27
+G10: 
+0.25 & 0.56 & 0.34 & 14.59
+G11: 
+0.41 & 0.52 & 0.46 & 14.17
+G12: 
+0.14 & 0.90 & 0.24 & 21.66
+G13: 
+0.15 & 0.83 & 0.25 & 20.73
+G14: 
+0.27 & 0.50 & 0.35 & 14.77
+G15: 
+0.20 & 0.23 & 0.21 & 14.52
+G16: 
+0.70 & 0.62 & 0.65 & 12.80
+Estimating erisk 50
+G1: 
+0.47 & 0.54 & 0.50 & 9.98
+G2: 
+0.38 & 0.58 & 0.46 & 10.12
+G3: 
+0.18 & 0.52 & 0.27 & 13.14
+G4: 
+0.50 & 0.62 & 0.55 & 11.50
+G5: 
+0.55 & 0.12 & 0.19 & 12.63
+G6: 
+0.44 & 0.13 & 0.21 & 11.79
+G7: 
+0.13 & 0.73 & 0.23 & 14.62
+G8: 
+0.25 & 0.65 & 0.36 & 10.99
+G9: 
+0.19 & 0.44 & 0.26 & 12.24
+G10: 
+0.25 & 0.56 & 0.34 & 11.94
+G11: 
+0.41 & 0.52 & 0.46 & 11.73
+G12: 
+0.14 & 0.90 & 0.24 & 17.54
+G13: 
+0.15 & 0.83 & 0.25 & 17.67
+G14: 
+0.27 & 0.50 & 0.35 & 11.27
+G15: 
+0.20 & 0.23 & 0.21 & 13.77
+G16: 
+0.70 & 0.62 & 0.65 & 9.19
+Done.

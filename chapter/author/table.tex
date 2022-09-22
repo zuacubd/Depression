@@ -1,0 +1,82 @@
+\begin{center}
+\begin{longtable}{@{} l@{\hspace{.2em}} l@{\hspace{.2em}} p{3.3cm} @{\hspace{.2em}} @{\hspace{.2em}} p{6cm}} 
+\caption{Description of the features used to represent the information. Similar type of features are grouped.}\label{CH4:tab:features}\\
+\hline
+Group & Number & Name & Hypothesis or tool/resource used\\
+\hline
+\endfirsthead
+%Group & \# & Name & & Hypothesis or tool/resource used\\
+\endhead
+\multicolumn{4}{c}{\scshape{Meta$_{1}$}: Representation of full texts}\\
+\hline
+ I & 1-18 & Bag of words & $18$ most frequent uni-grams in the training set.\\[3pt]
+\hline
+II & 19-22 & Part-Of-Speech frequency & Higher usage of adjectives, verbs and adverbs and lower usage of nouns.\\[3pt]
+\hline
+\multirow{3}{*}{III}
+& 45 & Depression symptoms and related drugs & From Wikipedia list and ~\cite{Choudhury2013}\\
+& 48 & Relevant 3-grams & 25 3-grams described from.\\
+& 49 & Relevant 5-grams & 25 5-grams described from.\\[3pt]
+\hline
+\multicolumn{4}{c}{\scshape{Meta$_{2}$}: Lexicons on depression}\\
+\hline
+IV & 47 & Frequency of ``depress" & Depressed people talk often about the depression.\\[3pt]
+\hline
+V & 58 & {Drugs name} & The chemical and brand names of antidepressants from WebMD available in United States.\\[3pt]
+\hline
+\multicolumn{4}{c}{\scshape{Meta$_{3}$}:Temporality}\\
+\hline
+\multirow{2}{*}{VI}
+& 43 & Temporal expressions & High use of words that refer to past: last,before,ago, ....\\
+& 46 & Sleepy Words & Depressive users talk more about their sleeping.\\[3pt]
+\hline
+\multirow{2}{*}{VII}
+& 50 & Ratio of Posting Time & High frequency of publications in deep night (00 pm - 07 am).\\
+& 253-256 & Season of a year (4 seasons in total) & {Frequency of publications in season (one season corresponds to 3 months).}\\[3pt]
+\hline
+\multirow{3}{*}{VIII}
+& 41 & Past frequency & Combination of temporal expressions and past tense verbs.\\
+& 42 & Past tense verbs & Depressive people talk more about the past.\\
+& 44 & Past tense auxiliaries & Same motivation as above.\\[3pt]
+\hline
+\multicolumn{4}{c}{\scshape{Meta$_{4}$}: Writing style}\\
+\hline
+\multirow{5}{*}{IX} 
+& 27 & Average number of posts & Depressed users have a much lower number of posts.\\
+& 28 & Average number of words per post & Posts of depressed user are more longer.\\
+& 29 & Minimum number of posts & Generally depressive users have a lower value.\\
+& 30 & Average number of comments & Depressed users have a much lower number of comments.\\
+& 31 & Average number of words per comment & Comments of depressed and non depressed users have different means.\\[3pt]
+\hline
+%\pagebreak
+\multirow{4}{*}{X}
+& 54 & Gunning Fog Index & Estimate of the years of education that a person needs to understand the text at first reading.\\ 
+& 55 & Flesch Reading Ease & Measure how difficult to understand a text is.\\
+& 56 & Linsear Write Formula & Developed for the U.S. Air Force to calculate the readability of their technical manuals.\\
+& 57 & New Dale-Chall Readability & Measure the difficulty of comprehension that persons encounter when reading a text. It is inspired from Flesch Reading Ease measure.\\[3pt]
+\hline
+\multirow{4}{*}{XI} 
+& 32-36 & First person pronouns & High use of : \textit{I, me, myself, mine, my}.\\
+& 37 &\textit{I} subject of \textit{be} & High use of \textit{I'm}.\\
+& 38 & All first person pronouns & Sum of frequency of each first pronoun .\\
+& 39 & \textit{I} in subjective context & Depressive users refers to themselves frequently (all \textit{I} targeted by an adjective).\\[3pt]
+\hline
+XII & 40 & Over-generalization  & Depressed users tend to use intense quantifiers and {superlatives}.\\[3pt]
+\hline
+XIII & 23 & Negation & Depressive users use more negative words like: \textit{no, not, didn’t, can't}, ...., etc. \\[3pt]
+\hline
+\multirow{3}{*}{XIV}
+& 24 & Capitalized & Depressive users tend to put emphasis on the target they mention.\\
+& 26 & Punctuation marks & ! or ? or any combination of both tend to express doubt and surprise.\\
+& 53 & Emotions & Frequency of emotions from specific categories: anger, fear, surprise, sadness and disgust.\\[3pt]
+\hline
+\multicolumn{4}{c}{\scshape{Meta$_{5}$}: Emotion}\\
+\hline
+\multirow{2}{*}{XV}
+& 25 & Emoticons & Another way to express sentiment or feeling.\\
+& 51-52 & Sentiment & Use of NRC-Sentiment-Emotion-Lexicons to trace the polarity in users writings.\\
+\hline
+XVI & 59-252 & Empathy & all 194 empathy categories\\ 
+\hline
+\end{longtable}
+\end{center}

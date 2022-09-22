@@ -1,0 +1,16 @@
+launching ...
+processing arguments ...
+Data folder: /projets/sig/mullah/nlp/depression/
+Process: 3
+Evaluation track: 2018
+Features type: bert
+Choice on early detection: 1
+Cumulative choice: 0
+Pretrained model:base_uncased
+Model state: finetuned
+Distribution: balanced
+Aggregation: max
+Training: False
+Testing: False
+Assessing: True
+done.

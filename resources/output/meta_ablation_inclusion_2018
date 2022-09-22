@@ -1,0 +1,35 @@
+Aggregation
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2018/bow/test/All_meta1_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2018/bow/test/All_meta2_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2018/bow/test/All_meta3_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2018/bow/test/All_meta4_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2018/bow/test/All_meta5_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Results saved in output file "/projets/sig/mullah/nlp/depression/output/2018/bow/test/All_meta6_inclusion/random_forest/natural/test_eRisk_depression_global.txt"
+Done
+Estimating erisk 5
+Meta1: 
+0.49 & 0.47 & 0.48 & 9.38
+Meta2: 
+0.32 & 0.66 & 0.43 & 10.64
+Meta3: 
+0.10 & 0.68 & 0.18 & 13.32
+Meta4: 
+0.21 & 0.53 & 0.30 & 10.13
+Meta5: 
+0.08 & 0.09 & 0.09 & 10.55
+Meta6: 
+0.59 & 0.49 & 0.54 & 9.76
+Estimating erisk 50
+Meta1: 
+0.49 & 0.47 & 0.48 & 7.04
+Meta2: 
+0.32 & 0.66 & 0.43 & 8.38
+Meta3: 
+0.10 & 0.68 & 0.18 & 11.06
+Meta4: 
+0.21 & 0.53 & 0.30 & 7.62
+Meta5: 
+0.08 & 0.09 & 0.09 & 10.06
+Meta6: 
+0.59 & 0.49 & 0.54 & 7.15
+Done.

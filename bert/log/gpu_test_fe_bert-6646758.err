@@ -1,0 +1,9 @@
+Usage example: change_mofed_version.sh 4.5-1.0.1
+2021-02-20 19:49:22.239700: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+Traceback (most recent call last):
+  File "feature_extraction_test.py", line 180, in <module>
+    vector_test = vectorize(test_data)
+  File "feature_extraction_test.py", line 146, in vectorize
+    vectors.append(output[0][0][ldx].detach().cpu().numpy())
+IndexError: index -4 is out of bounds for dimension 0 with size 3
+srun: error: gpu-nc05: task 0: Exited with exit code 1

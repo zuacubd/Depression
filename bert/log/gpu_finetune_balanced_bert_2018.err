@@ -1,0 +1,15 @@
+Usage example: change_mofed_version.sh 4.5-1.0.1
+2021-02-23 00:46:42.579323: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+/users/sig/mullah/.conda/envs/e36t11/lib/python3.6/site-packages/sklearn/utils/validation.py:70: FutureWarning: Pass classes=[0 1], y=255571    0
+154799    0
+226564    0
+377639    1
+298493    0
+         ..
+107945    0
+298706    0
+76724     0
+300315    0
+111931    0
+Name: labels, Length: 311640, dtype: int64 as keyword args. From version 0.25 passing these as positional arguments will result in an error
+  FutureWarning)

@@ -1,0 +1,129 @@
+\begin{thebibliography}{10}
+
+\bibitem{ChoudhuryCHH14}
+Munmun~De Choudhury, Scott Counts, Eric Horvitz, and Aaron Hoff.
+\newblock Characterizing and predicting postpartum depression from shared
+  facebook data.
+\newblock In {\em Computer Supported Cooperative Work, {CSCW} '14, Baltimore,
+  MD, USA, February 15-19, 2014}, pages 626--638, 2014.
+
+\bibitem{Choudhury2013}
+Munmun~De Choudhury, Michael Gamon, Scott Counts, and Eric Horvitz.
+\newblock Predicting depression via social media.
+\newblock In {\em Proceedings of the Seventh International Conference on
+  Weblogs and Social Media}, 2013.
+
+\bibitem{DallouxCCBG20}
+Cl{\'{e}}ment Dalloux, Vincent Claveau, Marc Cuggia, Guillaume Bouzill{\'{e}},
+  and Natalia Grabar.
+\newblock Supervised learning for the {ICD-10} coding of french clinical
+  narratives.
+\newblock In {\em Digital Personalized Health and Medicine - Proceedings of
+  {MIE} 2020, Medical Informatics Europe, Geneva, Switzerland, April 28 - May
+  1, 2020}, pages 427--431, 2020.
+
+\bibitem{FranceSSSW00}
+Daniel~J. France, Richard~G. Shiavi, Stephen~E. Silverman, Marilyn~K.
+  Silverman, and D.~Mitchell Wilkes.
+\newblock Acoustical properties of speech as indicators of depression and
+  suicidal risk.
+\newblock {\em {IEEE} Trans. Biomed. Engineering}, 47(7):829--837, 2000.
+
+\bibitem{ErrecaldeVFUC17}
+Dar{\'{\i}}o~Gustavo Funez, Marcelo~Luis Errecalde, Maria~Paula Villegas, Maria
+  Jos{\'{e}}~Garciarena Ucelay, and Leticia~Cecilia Cagnina.
+\newblock Temporal variation of terms as concept space for early risk
+  prediction.
+\newblock In {\em Working Notes of {CLEF} 2017 - Conference and Labs of the
+  Evaluation Forum, Dublin, Ireland, September 11-14, 2017}, 2017.
+
+\bibitem{Faneva2020}
+RAMIANDRISOA Iarivony~Faneva.
+\newblock {\em Extraction et fouille de données textuelles: application à
+  ladétection de la dépression, de l'anorexie et de l'agressivité dans les
+  réseaux sociaux}.
+\newblock PhD thesis, Université de Toulouse, 2020.
+
+\bibitem{GraveMJB17}
+Armand Joulin, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov.
+\newblock Bag of tricks for efficient text classification.
+\newblock In {\em Proceedings of the 15th Conference of the European Chapter of
+  the Association for Computational Linguistics, {EACL} 2017, Valencia, Spain,
+  April 3-7, 2017, Volume 2: Short Papers}, pages 427--431, 2017.
+
+\bibitem{kulkarni2018early}
+Akshay Bhavani~Kumar Kulkarni.
+\newblock Early detection of depression.
+\newblock Master's thesis, University of Houston, 2018.
+
+\bibitem{LI2011441}
+Zhixing Li, Zhongyang Xiong, Yufang Zhang, Chunyong Liu, and Kuan Li.
+\newblock Fast text categorization using concise semantic analysis.
+\newblock {\em Pattern Recognition Letters}, 32(3):441--448, 2011.
+
+\bibitem{losada2017erisk}
+David~E Losada, Fabio Crestani, and Javier Parapar.
+\newblock erisk 2017: Clef lab on early risk prediction on the internet:
+  experimental foundations.
+\newblock In {\em International Conference of the Cross-Language Evaluation
+  Forum for European Languages}, pages 346--360. Springer, 2017.
+
+\bibitem{low2011detection}
+Lu{-}Shih~Alex Low, Namunu~C. Maddage, Margaret Lech, Lisa Sheeber, and
+  Nicholas~B. Allen.
+\newblock Detection of clinical depression in adolescents' speech during family
+  interactions.
+\newblock {\em {IEEE} Trans. Biomed. Engineering}, 58(3):574--586, 2011.
+
+\bibitem{marriott2014true}
+Tamsin~C. Marriott and Tom Buchanan.
+\newblock The true self online: Personality correlates of preference for
+  self-expression online, and observer ratings of personality online and
+  offline.
+\newblock {\em Computers in Human Behavior}, 32:171--177, 2014.
+
+\bibitem{world2017depression}
+World~Health Organization et~al.
+\newblock Depression and other common mental disorders: global health
+  estimates. 2017.
+\newblock {\em Geneva: WHO}, 2017.
+
+\bibitem{OzdasSSSW04}
+Asli Ozdas, Richard~G. Shiavi, Stephen~E. Silverman, Marilyn~K. Silverman, and
+  D.~Mitchell Wilkes.
+\newblock Investigation of vocal jitter and glottal flow spectrum as possible
+  cues for depression and near-term suicidal risk.
+\newblock {\em {IEEE} Trans. Biomed. Engineering}, 51(9):1530--1540, 2004.
+
+\bibitem{Resnik2015}
+Philip Resnik, William Armstrong, Leonardo Max~Batista Claudino, Thang Nguyen,
+  Viet{-}An Nguyen, and Jordan~L. Boyd{-}Graber.
+\newblock Beyond {LDA:} exploring supervised topic modeling for
+  depression-related language in {Twitter}.
+\newblock In {\em Proceedings of CLPsych@NAACL-HLT}, 2015.
+
+\bibitem{Schwartz2014}
+H.~Andrew Schwartz, Johannes~C. Eichstaedt, Margaret~L. Kern, Gregory~J. Park,
+  Maarten Sap, David Stillwell, Michal Kosinski, and Lyle~H. Ungar.
+\newblock Towards assessing changes in degree of depression through facebook.
+\newblock In {\em Proceedings of the Workshop on Computational Linguistics and
+  Clinical Psychology: From Linguistic Signal to Clinical Reality}, pages
+  118--125, 2014.
+
+\bibitem{TrotzekKF18}
+Marcel Trotzek, Sven Koitka, and Christoph~M. Friedrich.
+\newblock Word embeddings and linguistic metadata at the {CLEF} 2018 tasks for
+  early detection of depression and anorexia.
+\newblock In {\em Working Notes of {CLEF} 2018 - Conference and Labs of the
+  Evaluation Forum, Avignon, France, September 10-14, 2018.}, 2018.
+
+\bibitem{WangZJSWB13}
+Xinyu Wang, Chunhong Zhang, Yang Ji, Li~Sun, Leijia Wu, and Zhana Bao.
+\newblock A depression detection model based on sentiment analysis in
+  micro-blog social network.
+\newblock In {\em Trends and Applications in Knowledge Discovery and Data
+  Mining - {PAKDD} 2013 International Workshops: DMApps, DANTH, QIMIE, BDM,
+  CDA, CloudSD, Gold Coast, QLD, Australia, April 14-17, 2013, Revised Selected
+  Papers}, pages 201--213, 2013.
+
+\end{thebibliography}
