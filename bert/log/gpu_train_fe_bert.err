@@ -1,0 +1,5 @@
+Usage example: change_mofed_version.sh 4.5-1.0.1
+2021-02-20 19:45:19.571960: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 6646755 ON gpu-nc01 CANCELLED AT 2021-02-20T19:46:11 ***
+slurmstepd: error: *** STEP 6646755.0 ON gpu-nc01 CANCELLED AT 2021-02-20T19:46:11 ***

@@ -1,0 +1,329 @@
+\begin{thebibliography}{10}
+
+\bibitem{BurdissoEM19B}
+Sergio~G. Burdisso, Marcelo Errecalde, and Manuel Montes{-}y{-}G{\'{o}}mez.
+\newblock t-ss3: a text classifier with dynamic n-grams for early risk
+  detection over text streams.
+\newblock {\em CoRR}, abs/1911.06147, 2019.
+
+\bibitem{BurdissoEM19}
+Sergio~G. Burdisso, Marcelo Errecalde, and Manuel Montes{-}y{-}G{\'{o}}mez.
+\newblock A text classification framework for simple and effective early
+  depression detection over social media streams.
+\newblock {\em Expert Syst. Appl.}, 133:182--197, 2019.
+
+\bibitem{CachedaINC18}
+Fidel Cacheda, Diego~Fern{\'{a}}ndez Iglesias, Francisco~Javier N{\'{o}}voa,
+  and Victor Carneiro.
+\newblock Analysis and experiments on early detection of depression.
+\newblock In {\em Working Notes of {CLEF} 2018 - Conference and Labs of the
+  Evaluation Forum, Avignon, France, September 10-14, 2018}, 2018.
+
+\bibitem{ChoudhuryCHH14}
+Munmun~De Choudhury, Scott Counts, Eric Horvitz, and Aaron Hoff.
+\newblock Characterizing and predicting postpartum depression from shared
+  facebook data.
+\newblock In {\em Computer Supported Cooperative Work, {CSCW} '14, Baltimore,
+  MD, USA, February 15-19, 2014}, pages 626--638, 2014.
+
+\bibitem{Choudhury2013}
+Munmun~De Choudhury, Michael Gamon, Scott Counts, and Eric Horvitz.
+\newblock Predicting depression via social media.
+\newblock In {\em Proceedings of the Seventh International Conference on
+  Weblogs and Social Media}, 2013.
+
+\bibitem{colombo2016}
+Gualtiero~B. Colombo, Pete Burnap, Andrei Hodorog, and Jonathan Scourfield.
+\newblock Analysing the connectivity and communication of suicidal users on
+  twitter.
+\newblock {\em Computer Communications}, 73:291--300, 2016.
+
+\bibitem{dai2015document}
+Andrew~M Dai, Christopher Olah, and Quoc~V Le.
+\newblock Document embedding with paragraph vectors.
+\newblock {\em arXiv preprint arXiv:1507.07998}, 2015.
+
+\bibitem{DallouxCCBG20}
+Cl{\'{e}}ment Dalloux, Vincent Claveau, Marc Cuggia, Guillaume Bouzill{\'{e}},
+  and Natalia Grabar.
+\newblock Supervised learning for the {ICD-10} coding of french clinical
+  narratives.
+\newblock In {\em Digital Personalized Health and Medicine - Proceedings of
+  {MIE} 2020, Medical Informatics Europe, Geneva, Switzerland, April 28 - May
+  1, 2020}, pages 427--431, 2020.
+
+\bibitem{deveaud2018learning}
+Romain Deveaud, Josiane Mothe, Md~Zia Ullah, and Jian-Yun Nie.
+\newblock Learning to adaptively rank document retrieval system configurations.
+\newblock {\em ACM Transactions on Information Systems (TOIS)}, 37(1):1--41,
+  2018.
+
+\bibitem{devlin2018bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{FastCB16}
+Ethan Fast, Binbin Chen, and Michael~S. Bernstein.
+\newblock Empath: Understanding topic signals in large-scale text.
+\newblock In {\em Proceedings of the 2016 {CHI} Conference on Human Factors in
+  Computing Systems, San Jose, CA, USA, May 7-12, 2016}, pages 4647--4657,
+  2016.
+
+\bibitem{FranceSSSW00}
+Daniel~J. France, Richard~G. Shiavi, Stephen~E. Silverman, Marilyn~K.
+  Silverman, and D.~Mitchell Wilkes.
+\newblock Acoustical properties of speech as indicators of depression and
+  suicidal risk.
+\newblock {\em {IEEE} Trans. Biomed. Engineering}, 47(7):829--837, 2000.
+
+\bibitem{ErrecaldeVFUC17}
+Dar{\'{\i}}o~Gustavo Funez, Marcelo~Luis Errecalde, Maria~Paula Villegas, Maria
+  Jos{\'{e}}~Garciarena Ucelay, and Leticia~Cecilia Cagnina.
+\newblock Temporal variation of terms as concept space for early risk
+  prediction.
+\newblock In {\em Working Notes of {CLEF} 2017 - Conference and Labs of the
+  Evaluation Forum, Dublin, Ireland, September 11-14, 2017}, 2017.
+
+\bibitem{FunezUVBCME18}
+Dar{\'{\i}}o~Gustavo Funez, Maria Jos{\'{e}}~Garciarena Ucelay, Maria~Paula
+  Villegas, Sergio Burdisso, Leticia~C. Cagnina, Manuel
+  Montes{-}y{-}G{\'{o}}mez, and Marcelo Errecalde.
+\newblock Unsl's participation at erisk 2018 lab.
+\newblock In {\em Working Notes of {CLEF} 2018 - Conference and Labs of the
+  Evaluation Forum, Avignon, France, September 10-14, 2018.}, 2018.
+
+\bibitem{hoang2018predicting}
+Thi Bich~Ngoc Hoang and Josiane Mothe.
+\newblock Predicting information diffusion on twitter--analysis of predictive
+  features.
+\newblock {\em Journal of computational science}, 28:257--264, 2018.
+
+\bibitem{Faneva2020}
+RAMIANDRISOA Iarivony~Faneva.
+\newblock {\em Extraction et fouille de données textuelles: application à la
+  détection de la dépression, de l'anorexie et de l'agressivité dans les
+  réseaux sociaux}.
+\newblock PhD thesis, Université de Toulouse, 2020.
+
+\bibitem{GraveMJB17}
+Armand Joulin, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov.
+\newblock Bag of tricks for efficient text classification.
+\newblock In {\em Proceedings of the 15th Conference of the European Chapter of
+  the Association for Computational Linguistics, {EACL} 2017, Valencia, Spain,
+  April 3-7, 2017, Volume 2: Short Papers}, pages 427--431, 2017.
+
+\bibitem{king2001logistic}
+Gary King and Langche Zeng.
+\newblock Logistic regression in rare events data.
+\newblock {\em Political analysis}, 9(2):137--163, 2001.
+
+\bibitem{kulkarni2018early}
+Akshay Bhavani~Kumar Kulkarni.
+\newblock Early detection of depression.
+\newblock Master's thesis, University of Houston, 2018.
+
+\bibitem{LeM14}
+Quoc Le and Tomas Mikolov.
+\newblock Distributed representations of sentences and documents.
+\newblock In {\em International conference on machine learning}, pages
+  1188--1196. PMLR, 2014.
+
+\bibitem{ch2_fs}
+Jundong Li, Kewei Cheng, Suhang Wang, Fred Morstatter, Robert~P. Trevino,
+  Jiliang Tang, and Huan Liu.
+\newblock Feature selection: A data perspective.
+\newblock {\em ACM Comput. Surv.}, 50(6), December 2017.
+
+\bibitem{LI2011441}
+Zhixing Li, Zhongyang Xiong, Yufang Zhang, Chunyong Liu, and Kuan Li.
+\newblock Fast text categorization using concise semantic analysis.
+\newblock {\em Pattern Recognition Letters}, 32(3):441--448, 2011.
+
+\bibitem{losada2017erisk}
+David~E Losada, Fabio Crestani, and Javier Parapar.
+\newblock erisk 2017: Clef lab on early risk prediction on the internet:
+  experimental foundations.
+\newblock In {\em International Conference of the Cross-Language Evaluation
+  Forum for European Languages}, pages 346--360. Springer, 2017.
+
+\bibitem{low2011detection}
+Lu{-}Shih~Alex Low, Namunu~C. Maddage, Margaret Lech, Lisa Sheeber, and
+  Nicholas~B. Allen.
+\newblock Detection of clinical depression in adolescents' speech during family
+  interactions.
+\newblock {\em {IEEE} Trans. Biomed. Engineering}, 58(3):574--586, 2011.
+
+\bibitem{MalamABBKEHHMMR17}
+Idriss~Abdou Malam, Mohamed Arziki, Mohammed~Nezar Bellazrak, Farah Benamara,
+  Assafa~El Kaidi, Bouchra Es{-}Saghir, Zhaolong He, Mouad Housni,
+  V{\'{e}}ronique Moriceau, Josiane Mothe, and Faneva Ramiandrisoa.
+\newblock {IRIT} at e-risk.
+\newblock In {\em Working Notes of {CLEF} 2017 - Conference and Labs of the
+  Evaluation Forum, Dublin, Ireland, September 11-14, 2017}, 2017.
+
+\bibitem{marriott2014true}
+Tamsin~C. Marriott and Tom Buchanan.
+\newblock The true self online: Personality correlates of preference for
+  self-expression online, and observer ratings of personality online and
+  offline.
+\newblock {\em Computers in Human Behavior}, 32:171--177, 2014.
+
+\bibitem{mikolov2013distributed}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeff Dean.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In C.~J.~C. Burges, L.~Bottou, M.~Welling, Z.~Ghahramani, and K.~Q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems},
+  volume~26. Curran Associates, Inc., 2013.
+
+\bibitem{MohammadT13}
+Saif Mohammad and Peter~D. Turney.
+\newblock Crowdsourcing a word-emotion association lexicon.
+\newblock {\em Computational Intelligence}, 29(3), 2013.
+
+\bibitem{mowery2016towards}
+Danielle Mowery, Albert Park, Mike Conway, and Craig Bryan.
+\newblock Towards automatically classifying depressive symptoms from twitter
+  data for population health.
+\newblock In {\em Proceedings of the Workshop on Computational Modeling of
+  People’s Opinions, Personality, and Emotions in Social Media}, pages
+  182--191, 2016.
+
+\bibitem{world2017depression}
+World~Health Organization et~al.
+\newblock Depression and other common mental disorders: global health
+  estimates. 2017.
+\newblock {\em Geneva: WHO}, 2017.
+
+\bibitem{overland2020seasonality}
+Simon {\O}verland, Wojtek Woicik, Lindsey Sikora, Kristoffer Whittaker, Hans
+  Heli, Fritjof~Stein Skjelkv{\aa}le, B{\o}rge Sivertsen, and Ian Colman.
+\newblock Seasonality and symptoms of depression: A systematic review of the
+  literature.
+\newblock {\em Epidemiology and psychiatric sciences}, 29, 2020.
+
+\bibitem{OzdasSSSW04}
+Asli Ozdas, Richard~G. Shiavi, Stephen~E. Silverman, Marilyn~K. Silverman, and
+  D.~Mitchell Wilkes.
+\newblock Investigation of vocal jitter and glottal flow spectrum as possible
+  cues for depression and near-term suicidal risk.
+\newblock {\em {IEEE} Trans. Biomed. Engineering}, 51(9):1530--1540, 2004.
+
+\bibitem{PaulJB18}
+Sayanta Paul, Sree~Kalyani Jandhyala, and Tanmay Basu.
+\newblock Early detection of signs of anorexia and depression over social media
+  using effective machine learning frameworks.
+\newblock In {\em Working Notes of {CLEF} 2018 - Conference and Labs of the
+  Evaluation Forum, Avignon, France, September 10-14, 2018}, 2018.
+
+\bibitem{pedregosa2011scikit}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel,
+  Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron
+  Weiss, Vincent Dubourg, et~al.
+\newblock Scikit-learn: Machine learning in python.
+\newblock {\em the Journal of machine Learning research}, 12:2825--2830, 2011.
+
+\bibitem{peters2018deep}
+Matthew Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark,
+  Kenton Lee, and Luke Zettlemoyer.
+\newblock Deep contextualized word representations.
+\newblock In {\em Proceedings of the 2018 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long Papers)}, pages 2227--2237, 2018.
+
+\bibitem{radloff2015self}
+LS~Radloff.
+\newblock A self-report depression scale for research in the general
+  population.
+\newblock {\em Applied Psychological Measurement}, 1:413--449, 2015.
+
+\bibitem{RamiandrisoaM20}
+Faneva Ramiandrisoa and Josiane Mothe.
+\newblock Early detection of depression and anorexia from social media: {A}
+  machine learning approach.
+\newblock In {\em Proceedings of the Joint Conference of the Information
+  Retrieval Communities in Europe {(CIRCLE} 2020), Samatan, Gers, France, July
+  6-9, 2020}, 2020.
+
+\bibitem{RamiandrisoaMBM18}
+Faneva Ramiandrisoa, Josiane Mothe, Farah Benamara, and V{\'{e}}ronique
+  Moriceau.
+\newblock {IRIT} at e-risk 2018.
+\newblock In {\em Working Notes of {CLEF} 2018 - Conference and Labs of the
+  Evaluation Forum, Avignon, France, September 10-14, 2018}, 2018.
+
+\bibitem{Resnik2015}
+Philip Resnik, William Armstrong, Leonardo Max~Batista Claudino, Thang Nguyen,
+  Viet{-}An Nguyen, and Jordan~L. Boyd{-}Graber.
+\newblock Beyond {LDA:} exploring supervised topic modeling for
+  depression-related language in {Twitter}.
+\newblock In {\em Proceedings of CLPsych@NAACL-HLT}, 2015.
+
+\bibitem{rude2004language}
+Stephanie Rude, Eva{-}Maria Gortner, and James Pennebaker.
+\newblock Language use of depressed and depression-vulnerable college students.
+\newblock {\em Cognition \& Emotion}, 18(8):1121--1133, 2004.
+
+\bibitem{SadequeXB17}
+Farig Sadeque, Dongfang Xu, and Steven Bethard.
+\newblock Uarizona at the {CLEF} erisk 2017 pilot task: Linear and recurrent
+  models for early depression detection.
+\newblock In {\em Working Notes of {CLEF} 2017 - Conference and Labs of the
+  Evaluation Forum, Dublin, Ireland, September 11-14, 2017}, 2017.
+
+\bibitem{Schwartz2014}
+H.~Andrew Schwartz, Johannes~C. Eichstaedt, Margaret~L. Kern, Gregory~J. Park,
+  Maarten Sap, David Stillwell, Michal Kosinski, and Lyle~H. Ungar.
+\newblock Towards assessing changes in degree of depression through facebook.
+\newblock In {\em Proceedings of the Workshop on Computational Linguistics and
+  Clinical Psychology: From Linguistic Signal to Clinical Reality}, pages
+  118--125, 2014.
+
+\bibitem{TrotzekKF17}
+Marcel Trotzek, Sven Koitka, and Christoph~M. Friedrich.
+\newblock Linguistic metadata augmented classifiers at the {CLEF} 2017 task for
+  early detection of depression.
+\newblock In {\em Working Notes of {CLEF} 2017 - Conference and Labs of the
+  Evaluation Forum, Dublin, Ireland, September 11-14, 2017}, 2017.
+
+\bibitem{trotzek2018utilizing}
+Marcel Trotzek, Sven Koitka, and Christoph~M Friedrich.
+\newblock Utilizing neural networks and linguistic metadata for early detection
+  of depression indications in text sequences.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  32(3):588--601, 2018.
+
+\bibitem{TrotzekKF18}
+Marcel Trotzek, Sven Koitka, and Christoph~M. Friedrich.
+\newblock Word embeddings and linguistic metadata at the {CLEF} 2018 tasks for
+  early detection of depression and anorexia.
+\newblock In {\em Working Notes of {CLEF} 2018 - Conference and Labs of the
+  Evaluation Forum, Avignon, France, September 10-14, 2018.}, 2018.
+
+\bibitem{VillegasFUCE17}
+Maria~Paula Villegas, Dar{\'{\i}}o~Gustavo Funez, Maria Jos{\'{e}}~Garciarena
+  Ucelay, Leticia~Cecilia Cagnina, and Marcelo~Luis Errecalde.
+\newblock {LIDIC} - unsl's participation at erisk 2017: Pilot task on early
+  detection of depression.
+\newblock In {\em Working Notes of {CLEF} 2017 - Conference and Labs of the
+  Evaluation Forum, Dublin, Ireland, September 11-14, 2017}, 2017.
+
+\bibitem{WangZJSWB13}
+Xinyu Wang, Chunhong Zhang, Yang Ji, Li~Sun, Leijia Wu, and Zhana Bao.
+\newblock A depression detection model based on sentiment analysis in
+  micro-blog social network.
+\newblock In {\em Trends and Applications in Knowledge Discovery and Data
+  Mining - {PAKDD} 2013 International Workshops: DMApps, DANTH, QIMIE, BDM,
+  CDA, CloudSD, Gold Coast, QLD, Australia, April 14-17, 2013, Revised Selected
+  Papers}, pages 201--213, 2013.
+
+\bibitem{XueLJFCC14}
+Yuanyuan Xue, Qi~Li, Li~Jin, Ling Feng, David~A. Clifton, and Gari~D. Clifford.
+\newblock Detecting adolescent psychological pressures from micro-blog.
+\newblock In {\em Health Information Science - Third International Conference,
+  {HIS} 2014, Shenzhen, China, April 22-23, 2014. Proceedings}, pages 83--94,
+  2014.
+
+\end{thebibliography}

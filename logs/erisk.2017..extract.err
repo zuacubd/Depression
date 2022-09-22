@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "app/feature_extraction/word2vec/feature_extraction.py", line 30, in <module>
+    from data_loader.load import *
+ModuleNotFoundError: No module named 'data_loader'

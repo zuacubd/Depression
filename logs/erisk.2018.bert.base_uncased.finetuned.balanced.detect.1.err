@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "app/bert_depression.py", line 1303, in <module>
+    detect_depression(test_filenames, feature_acro, early_choice, cumulative, aggregation)
+  File "app/bert_depression.py", line 843, in detect_depression
+    prob_early_detect_and_store(method,approach,filenames,f_acro,aggregation,dr)
+  File "app/bert_depression.py", line 657, in prob_early_detect_and_store
+    data = pd.read_csv(prediction_filepath, sep='\t', header=None)
+  File "/logiciels/Python-3.7.3/lib/python3.7/site-packages/pandas/io/parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/logiciels/Python-3.7.3/lib/python3.7/site-packages/pandas/io/parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/logiciels/Python-3.7.3/lib/python3.7/site-packages/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/logiciels/Python-3.7.3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/logiciels/Python-3.7.3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1853, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 387, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 705, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'/projets/sig/mullah/nlp/depression/prediction/2018/bert/test/base_uncased/finetuned/balanced/max/test_eRisk_depression_1.txt' does not exist: b'/projets/sig/mullah/nlp/depression/prediction/2018/bert/test/base_uncased/finetuned/balanced/max/test_eRisk_depression_1.txt'

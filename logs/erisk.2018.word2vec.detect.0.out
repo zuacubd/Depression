@@ -1,0 +1,11 @@
+launching ...
+processing arguments ...
+Data folder: /projets/sig/mullah/nlp/depression/
+Process: 3
+Evaluation track: 2018
+Features type: word2vec
+Choice on early detection: 0
+Training: False
+Testing: False
+Assessing: True
+done.
